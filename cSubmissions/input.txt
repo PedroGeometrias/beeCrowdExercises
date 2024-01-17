@@ -1,0 +1,69 @@
+37066821 		1050 	DDD 	Accepted 	C99 	0.000 	12/17/23, 3:37 PM
+36860943 		2339 	Aviões de Papel 	Accepted 	C99 	0.000 	11/29/23, 1:43 PM
+36850215 		1048 	Salary Increase 	Accepted 	C99 	0.000 	11/28/23, 8:12 PM
+36849825 		1163 	Angry Ducks 	Accepted 	C99 	0.000 	11/28/23, 7:46 PM
+36847418 		2061 	Closing Tabs 	Accepted 	C99 	0.000 	11/28/23, 5:18 PM
+36847158 		2416 	Corrida 	Accepted 	C99 	0.000 	11/28/23, 4:55 PM
+36812482 		1170 	Blobs 	Accepted 	C99 	0.000 	11/26/23, 3:10 PM
+36728684 		1047 	Game Time with Minutes 	Accepted 	C99 	0.000 	11/21/23, 12:31 AM
+36712516 		1046 	Game Time 	Accepted 	C99 	0.000 	11/19/23, 9:02 PM
+36712486 		1046 	Game Time 	Accepted 	C99 	0.002 	11/19/23, 9:00 PM
+36712477 		1046 	Game Time 	Accepted 	C99 	0.000 	11/19/23, 8:59 PM
+36706552 		1060 	Positive Numbers 	Accepted 	C99 	0.000 	11/19/23, 1:15 PM
+36706306 		1059 	Even Numbers 	Accepted 	C99 	0.000 	11/19/23, 1:01 PM
+36570022 		1045 	Triangle Types 	Accepted 	C99 	0.011 	11/9/23, 4:14 PM
+36557783 		1044 	Multiples 	Accepted 	C99 	0.000 	11/9/23, 1:19 AM
+36557733 		1022 	TDA Rational 	Accepted 	C99 	0.000 	11/9/23, 1:09 AM
+36557605 		1022 	TDA Rational 	Accepted 	C99 	0.000 	11/9/23, 12:49 AM
+36554215 		1143 	Squared and Cubic 	Accepted 	C99 	0.000 	11/8/23, 6:53 PM
+36553722 		2344 	Notas da Prova 	Accepted 	C99 	0.000 	11/8/23, 6:23 PM
+36553398 		1153 	Simple Factorial 	Accepted 	C99 	0.000 	11/8/23, 6:02 PM
+36553248 		2413 	Busca na Internet 	Accepted 	C99 	0.000 	11/8/23, 5:55 PM
+36552927 		1043 	Triangle 	Accepted 	C99 	0.000 	11/8/23, 5:35 PM
+36434445 		1008 	Salary 	Accepted 	C99 	0.000 	11/1/23, 7:38 PM
+36433551 		1042 	Simple Sort 	Accepted 	C99 	0.000 	11/1/23, 6:43 PM
+36259821 		1028 	Collectable Cards 	Accepted 	C99 	0.000 	10/23/23, 7:29 PM
+36169457 		1041 	Coordinates of a Point 	Accepted 	C99 	0.000 	10/18/23, 7:41 PM
+36091831 		1197 	Back to High School Physics 	Accepted 	C99 	0.000 	10/12/23, 6:53 PM
+36091558 		1169 	Grains in a Chess Board 	Accepted 	C99 	0.000 	10/12/23, 6:25 PM
+36067912 		1138 	Digits Count 	Accepted 	C99 	0.000 	10/11/23, 12:06 AM 
+36062828 		1161 	Factorial Sum 	Accepted 	C99 	0.000 	10/10/23, 5:17 PM
+36049355 		1040 	Average 3 	Accepted 	C99 	0.000 	10/9/23, 7:23 PM
+36033338 		1038 	Snack 	Accepted 	C99 	0.000 	10/8/23, 5:28 PM
+35889690 		1037 	Interval 	Accepted 	C99 	0.000 	9/30/23, 7:46 PM
+35873226 		1036 	Bhaskara's Formula 	Accepted 	C99 	0.000 	9/30/23, 12:12 AM
+35723297 		1035 	Selection Test 1 	Accepted 	C99 	0.000 	9/22/23, 11:21 PM
+35704254 		1021 	Banknotes and Coins 	Accepted 	C99 	0.000 	9/21/23, 11:14 PM
+35703374 		1020 	Age in Days 	Accepted 	C99 	0.000 	9/21/23, 9:30 PM
+35703323 		1019 	Time Conversion 	Accepted 	C99 	0.000 	9/21/23, 9:25 PM
+35657754 		1018 	Banknotes 	Accepted 	C99 	0.000 	9/19/23, 7:41 PM
+35656787 		1017 	Fuel Spent 	Accepted 	C99 	0.000 	9/19/23, 7:04 PM
+35656616 		1016 	Distance 	Accepted 	C99 	0.000 	9/19/23, 6:58 PM
+35656471 		1015 	Distance Between Two Points 	Accepted 	C99 	0.000 	9/19/23, 6:54 PM
+35655762 		1014 	Consumption 	Accepted 	C99 	0.000 	9/19/23, 6:32 PM
+35655062 		1013 	The Greatest 	Accepted 	C99 	0.000 	9/19/23, 6:12 PM
+35653441 		1012 	Area 	Accepted 	C99 	0.000 	9/19/23, 5:29 PM
+35584720 		3048 	Sequência Secreta 	Accepted 	C99 	0.000 	9/16/23, 9:42 AM
+35584406 		2386 	Telescópio 	Accepted 	C99 	0.000 	9/16/23, 9:22 AM
+35584151 		2702 	Hard Choice 	Accepted 	C99 	0.000 	9/16/23, 9:07 AM
+35583982 		2936 	How Much Cassava? 	Accepted 	C99 	0.000 	9/16/23, 8:57 AM
+35583315 		2388 	Tacógrafo 	Accepted 	C99 	0.000 	9/16/23, 8:13 AM
+35583213 		2374 	Tire 	Accepted 	C99 	0.000 	9/16/23, 8:04 AM
+35583176 		1933 	Tri-du 	Accepted 	C99 	0.000 	9/16/23, 8:01 AM
+35583097 		2006 	Identifying Tea 	Accepted 	C99 	0.000 	9/16/23, 7:55 AM
+35583074 		2006 	Identifying Tea 	Accepted 	C99 	0.000 	9/16/23, 7:54 AM
+35582973 		1115 	Quadrant 	Accepted 	C99 	0.000 	9/16/23, 7:45 AM
+35582710 		1070 	Six Odd Numbers 	Accepted 	C99 	0.000 	9/16/23, 7:23 AM
+35582414 		1011 	Sphere 	Accepted 	C99 	0.000 	9/16/23, 6:53 AM
+35570952 		1010 	Simple Calculate 	Accepted 	C99 	0.000 	9/15/23, 12:51 PM
+35537932 		1009 	Salary with Bonus 	Accepted 	C99 	0.000 	9/13/23, 7:31 PM
+35537116 		1008 	Salary 	Accepted 	C99 	0.015 	9/13/23, 7:00 PM
+35536855 		1007 	Difference 	Accepted 	C99 	0.000 	9/13/23, 6:48 PM
+35536488 		1006 	Average 2 	Accepted 	C99 	0.000 	9/13/23, 6:34 PM
+35536388 		1005 	Average 1 	Accepted 	C99 	0.000 	9/13/23, 6:30 PM
+35535546 		1004 	Simple Product 	Accepted 	C99 	0.000 	9/13/23, 6:00 PM
+35535480 		1003 	Simple Sum 	Accepted 	C99 	0.000 	9/13/23, 5:58 PM
+35535361 		1002 	Area of a Circle 	Accepted 	C99 	0.000 	9/13/23, 5:53 PM
+35535214 		1001 	Extremely Basic 	Accepted 	C99 	0.000 	9/13/23, 5:48 PM
+35535045 		1000 	Hello World! 	Accepted 	C99 	0.000 	9/13/23, 5:42 PM 
+
