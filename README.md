@@ -13,7 +13,7 @@ Welcome to the repo where I'm posting every beeCrowd exercise(Probably) on whate
 3. Or you can just copy them here, and paste them directly on beeCrowd, via GitHub.
 
 ## License
-This project is licensed under the [GNU General Public License v3.0](LICENSE).
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0). See the [LICENSE](LICENSE) file for the full text.
 
 Happy Griding!
 
