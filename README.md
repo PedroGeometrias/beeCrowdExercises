@@ -1,7 +1,7 @@
 # beeCrowdExercises
 
 ## Overview
-Welcome to the repo where I'm posting every beeCrowd exercise(Probably) on whatever lenguage that I want! you can just copy the ones that are here if you want.
+Welcome to the repo where I'm posting every beeCrowd exercise(Probably) on whatever language that I want! You can just copy the ones that are here if you want.
 
 ## Getting Started
 1. Clone the repository:
@@ -10,10 +10,10 @@ Welcome to the repo where I'm posting every beeCrowd exercise(Probably) on whate
     ```
 2. Explore the exercises using their ID.
 
-3. Or you can just copy them here,and paste them directly on beeCrowd, via github
+3. Or you can just copy them here, and paste them directly on beeCrowd, via GitHub.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [GNU General Public License v3.0](LICENSE).
 
-Happy coding!
+Happy Griding!
 
