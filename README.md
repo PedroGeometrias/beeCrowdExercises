@@ -6,7 +6,7 @@ Welcome to the repo where I'm posting every beeCrowd exercise(Probably) on whate
 ## Getting Started
 1. Clone the repository:
     ```bash
-    git clone https://github.com/PedroGeometrias/beeCrowdExercizes
+    git clone https://github.com/PedroGeometrias/beeCrowdExercises
     ```
 2. Explore the exercises using their ID.
 
