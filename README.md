@@ -1,19 +1,29 @@
 # beeCrowdExercises
 
 ## Overview
-Welcome to the repo where I'm posting every beeCrowd exercise(Probably) on whatever language that I want! You can just copy the ones that are here if you want.
+Welcome to the repository for beeCrowd exercise solutions! Here, you'll find solutions to various beeCrowd exercises in different programming languages that I find interesting at the moment.
 
 ## Getting Started
-1. Clone the repository:
+1. **Clone the Repository:**
     ```bash
     git clone https://github.com/PedroGeometrias/beeCrowdExercises
     ```
-2. Explore the exercises using their ID.
+    Clone this repository to your local machine to access the solutions.
 
-3. Or you can just copy them here, and paste them directly on beeCrowd, via GitHub.
+or
+   
+2. **Copy and Paste:**
+   - Navigate through the repository to find the solutions you're interested in and copy it, you can use their ID on the name of the file to find it easier.
+   - Paste them directly onto the beeCrowd platform for submission or comparison.
+
+Keep grinding and happy coding!
+
+## Contributing
+If you'd like to contribute your own solutions to beeCrowd exercises, I welcome your contributions! Please follow these guidelines:
+- Fork the repository.
+- Add your solutions.
+- Submit a pull request for review.
 
 ## License
-This project is licensed under the [GNU General Public License v3.0](LICENSE).
-
-Happy Griding!
+This repository is licensed under the [MIT License](https://mit-license.org/), which means you're free to use and modify the content.
 
