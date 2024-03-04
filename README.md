@@ -10,8 +10,6 @@ Welcome to the repository for beeCrowd exercise solutions! Here, you'll find sol
     ```
     Clone this repository to your local machine to access the solutions.
 
-or
-   
 2. **Copy and Paste:**
    - Navigate through the repository to find the solutions you're interested in and copy it, you can use their ID on the name of the file to find it easier.
    - Paste them directly onto the beeCrowd platform for submission or comparison.
