@@ -1,3 +1,5 @@
+// CODE BY pedroGeometrias
+// ID -> 1165
 #include <stdio.h>
 
 int primo(int n) {

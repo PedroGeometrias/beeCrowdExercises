@@ -1,3 +1,5 @@
+// CODE BY pedroGeometrias
+// ID -> 1164
 #include <stdio.h>
 
 int isPerfect(int num) {

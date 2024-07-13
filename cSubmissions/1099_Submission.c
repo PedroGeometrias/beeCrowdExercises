@@ -1,3 +1,5 @@
+// CODE BY pedroGeometrias
+// ID -> 1099
 #include <stdio.h>
 
 int main(int argc, char *argv[]){

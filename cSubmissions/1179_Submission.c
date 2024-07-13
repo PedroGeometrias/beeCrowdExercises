@@ -1,3 +1,5 @@
+// CODE BY pedroGeometrias
+// ID -> 1179
 #include <stdio.h>
 
 void printArr(int *arr, int size, const char *tipo) {

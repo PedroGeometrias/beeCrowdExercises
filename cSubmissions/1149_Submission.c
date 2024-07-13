@@ -1,3 +1,5 @@
+// CODE BY pedroGeometrias
+// ID -> 1149
 #include <stdio.h>
 
 int sum(int a, int n) {
