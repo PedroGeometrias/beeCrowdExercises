@@ -1,7 +1,7 @@
 # beeCrowdExercises
 
 ## Overview
-Welcome to the repository for beeCrowd exercise solutions! Here, you'll find solutions to various beeCrowd exercises in different programming languages that I find interesting at the moment. I divide the problems by the language that I used for the solution. Honestly, I've been hyper-focused on C for some time now, so that's the main go to for solutions.
+Welcome to the repository for my beeCrowd exercise solutions. Here, you'll find solutions to various beeCrowd exercises in different programming languages that I find interesting at the moment. I divide the problems by the language that I used for the solution. Honestly, I've been hyper-focused on C for some time now, so that's the main go to for solutions.
 
 ## Getting Started
 
