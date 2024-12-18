@@ -26,7 +26,3 @@ If you'd like to contribute your own solutions to this repo, I welcome your cont
 - Fork the repository.
 - Add your solutions.
 - Submit a pull request for review.
-
-## License
-This repository is licensed under the [MIT License](https://mit-license.org/), which means you're free to use and modify the content.
-
