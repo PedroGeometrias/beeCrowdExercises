@@ -1,3 +1,5 @@
+// CODE BY pedroGeometrias
+// ID -> 1541
 #include <math.h>
 #include <stdio.h>
 

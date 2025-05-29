@@ -1,3 +1,5 @@
+// CODE BY pedroGeometrias
+// ID -> 1292
 #include <stdio.h>
 #include <math.h>  
 
@@ -9,4 +11,3 @@ int main() {
     }
     return 0;
 }
-
