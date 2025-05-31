@@ -2,35 +2,28 @@
 // ID -> 1848
 #include <stdio.h>
 #include <string.h>
-
-int main(int argc, char *argv[]){
-    char str[3];
-    int i = 0, sum = 0;
-    int num[8];
-    while(i <3){
-        scanf("%s", str);
-        if(strcmp(str, "caw ") != 0){
-            i++;
-        }else{
-            for(int j = 0; j < 3; ++j){
-                if(str[j]== '*'){
-                    num[j]=1;      
-                }else{
-                    num[j] = 0;
+int main() {
+    char line[10];
+    int sum = 0;
+    int screams = 0;
+    while (screams < 3) {
+        fgets(line, sizeof(line), stdin);
+        line[strcspn(line, "\n")] = '\0';
+        if (strcmp(line, "caw caw") == 0) {
+            printf("%d\n", sum);
+            sum = 0;
+            screams++;
+        } else {
+            int value = 0;
+            for (int i = 0; i < 3; i++) {
+                value <<= 1;
+                if (line[i] == '*') {
+                    value |= 1;
                 }
             }
+            sum += value;
         }
     }
-    while(i < 3){
-        for(int j = 0; j < 3; j++){
-            if (num[j] == 1){
-                num[j] *= 2 ;
-            }
-            if(j == 0){
-                num[j] /= 2;
-            }
-        }
-    }
-    
     return 0;
 }
+

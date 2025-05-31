@@ -66,4 +66,3 @@
 35535361 		1002 	Area of a Circle 	Accepted 	C99 	0.000 	9/13/23, 5:53 PM
 35535214 		1001 	Extremely Basic 	Accepted 	C99 	0.000 	9/13/23, 5:48 PM
 35535045 		1000 	Hello World! 	Accepted 	C99 	0.000 	9/13/23, 5:42 PM 
-
